@@ -1,2 +1,2 @@
-# Python-ASCII-art-generator-
+# Python-ASCII-art-generator
 ASCII art generator for Python beginner's interest
