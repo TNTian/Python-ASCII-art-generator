@@ -45,6 +45,3 @@ newImage_width = 6 * image_width  # modify it if you want to create different wi
 newImage_height = 15 * image_height  # modify it if you want to create different height for new image
 mode = 'RGB'  # image mode
 text_to_image(mode, newImage_width, newImage_height, newImage_Address)
-
-# image2 = Image.open(newImage_Address)
-# image2 = image2.resize
