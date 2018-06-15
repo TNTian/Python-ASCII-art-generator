@@ -1,2 +1,3 @@
 # Python-ASCII-art-generator
-ASCII art generator for Python beginner's interest
+This is ASCII art generator for Python beginner's interest, a very basic Python mini project. 
+I am learning Python. Many comments in code.
